@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://yoji:yoji123@one.htfvy.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken":"mytoken",
+    "githubClientId":"d613a4d2a1620b55b1f3",
+    "githubSecret":"0c6575cd1b57740a18be7000d1f98033fa348355"
+
+}
